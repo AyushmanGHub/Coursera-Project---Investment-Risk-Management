@@ -22,10 +22,5 @@ This project focuses on two key aspects of investment risk management:
 * **Portfolio Risk:** The overall risk associated with a collection of investments.
 
 
-## Contributions
+All materials are derived from the `"Investment Risk Management"` project on Coursera, provided by Coursera. These resources are also available directly on the Coursera website.
 
-Contributions to this project are welcome! If you have suggestions for improvements, bug fixes, or new features, please feel free to submit a pull request.
-
-## License
-
-(Add your license here, e.g., MIT License)
